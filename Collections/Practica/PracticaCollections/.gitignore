@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+
+# Compilats
+out/
+*.class
+
+# Configuració projecte
+*.iml
